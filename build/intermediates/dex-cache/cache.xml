@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kapil/Documents/tucci-io/framework/SDKTestApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kapil/Documents/tucci-io/framework/SDKTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b49cfddc585580556cb38eecc76eccc5f481395/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kapil/Documents/tucci-io/framework/SDKTestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf0cf4058cc174230faeea937d00a8d8af024511">
+        <dex dex="/home/kapil/Documents/tucci-io/framework/SDKTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5eda75af0d42114f84df09b1bd9ff09488476d55/classes.dex" />
+    </item>
+
+</items>
